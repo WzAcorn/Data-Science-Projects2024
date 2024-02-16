@@ -14,11 +14,11 @@
 - 데이터 시각화: 복잡한 데이터를 이해하기 쉽게 시각적으로 표현.
 - 피쳐 엔지니어링 : 모델을 일반화, 범주화 하는 방법과 데이터의 상관성을 분석함.
 
-# 1주차 활동 요약
+## 1주차
 [1주차 활동 보러가기](https://github.com/WzAcorn/Data-Science-Projects2024/blob/main/Week1/01_week_activity_summary.md)
-# 2주차 활동 요약
-[2주차 활동 보러가기](https://github.com/WzAcorn/Data-Science-Projects2024/blob/main/Week2/02_week_activity_summary.md)
-# 3주차 활동 요약
-[3주차 활동 보러가기](https://github.com/WzAcorn/Data-Science-Projects2024/blob/main/Week3/03_week_activity_summary.md)
-# 4주차 활동 요약
+## 2주차
+[2주차 활동 보러가기](https://github.com/WzAcorn/Data-Science-Projects2024/blob/main/Week2/02_week_activaty_summary.md)
+## 3주차
+[3주차 활동 보러가기](https://github.com/WzAcorn/Data-Science-Projects2024/blob/main/Week3/03_week_activaty_summary.md)
+## 4주차
 [4주차 활동 보러가기](https://github.com/WzAcorn/Data-Science-Projects2024/blob/main/Week4/04_week_activaty_summary.md)
